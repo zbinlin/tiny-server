@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/zbinlin/tiny-server/issues"
   },
-  "homepage": "https://github.com/zbinlin/tiny-server#readme"
+  "homepage": "https://github.com/zbinlin/tiny-server#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
 }
